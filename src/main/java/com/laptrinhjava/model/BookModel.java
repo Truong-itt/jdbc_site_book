@@ -1,6 +1,6 @@
 package com.laptrinhjava.model;
 
-public class BookModel extends AbstractModel<OrderItemModel>{
+public class BookModel extends AbstractModel<BookModel>{
     private String title;
     private String author;
     private double price;

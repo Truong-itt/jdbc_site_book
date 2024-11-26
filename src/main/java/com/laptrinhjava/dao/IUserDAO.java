@@ -1,5 +1,5 @@
 package com.laptrinhjava.dao;
 
-public class IUserDAO {
-
+public interface IUserDAO {
+	Long save(Long id);
 }
