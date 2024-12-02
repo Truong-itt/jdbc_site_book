@@ -10,7 +10,7 @@
 	content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 <meta name="description" content="" />
 <meta name="author" content="" />
-<title>Landing Page - Start Bootstrap Theme</title>
+<title>Truongitt</title>
 <!-- Favicon-->
 
 </head>
@@ -18,7 +18,7 @@
 	<!-- Navigation-->
 	<nav class="navbar navbar-light bg-light static-top">
 		<div class="container">
-			<a class="navbar-brand" href="#!">Start Bootstrap</a> <a
+			<a class="navbar-brand" href="#!">TruongItt</a> <a
 				class="btn btn-primary" href="#signup">Sign Up</a>
 		</div>
 	</nav>

@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>TruongItt</title>
 
 <link rel="icon" type="image/x-icon"
  href="<c:url value='/template/web/assets/favicon.ico' />" />
